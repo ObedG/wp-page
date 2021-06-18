@@ -78,8 +78,8 @@ $table_prefix = 'wp_';
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
-define ('WP_HOME', 'https://oaxaqueandowp.herokuapp.com/');
-define ('WP_SITEURL', 'https://oaxaqueandowp.herokuapp.com/');
+define ('WP_HOME', 'https://app-52bbcb21-fbf5-4113-8597-15bcf5a43765.cleverapps.io/');
+define ('WP_SITEURL', 'https://app-52bbcb21-fbf5-4113-8597-15bcf5a43765.cleverapps.io/');
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
